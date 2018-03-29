@@ -11,7 +11,7 @@ public class AndGateTest {
 	private AndGate gate;
 
 	@Before
-	public void setUp() {
+	public void tUp() {
 		gate = new AndGate();
 	}
 
